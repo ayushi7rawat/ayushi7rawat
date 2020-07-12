@@ -1,16 +1,14 @@
-### Hi there 👋
+# Ayushi Rawat
 
-<!--
-**ayushi7rawat/ayushi7rawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ayushi_rawat)](https://twitter.com/ayushi_rawat_) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushi-rawat-53496218b/)](https://www.linkedin.com/in/ayushi-rawat-53496218b/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayushi7rawat@gmail.com)](ayushi7rawat@gmail.com)
 
-Here are some ideas to get you started:
+---
+## Namaste 🙏
+---
+Python | Frontend Developer | Maximo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Primary coding language: Python.
+- I’m currently learning Data Science.
+* Competitive Programmer
+* From Ujjain, M.P. India
