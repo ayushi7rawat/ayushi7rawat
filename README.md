@@ -9,6 +9,8 @@ Python | Frontend Developer | Maximo
 ## Namaste 🙏
 
 * Primary coding language: Python.
-* I’m currently learning Data Science.
+* I’m currently working on Twitter Bot.
+* I'm looking to collaborate on Invisible Cloak
 * Competitive Programmer
+* Ask me about anything, I'll be happy to help.
 * From Ujjain, M.P. India
