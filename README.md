@@ -15,4 +15,4 @@ Python | C++ | POSTGRESQL | HTML | CSS
 * Ask me about anything, I'll be happy to help.
 * From Ujjain, M.P. India
 
-  ![Visitor Count](https://profile-counter.glitch.me/{ayushi7rawat}/count.svg)
+Hey Visiter ![Visitor Count](https://profile-counter.glitch.me/{ayushi7rawat}/count.svg)
