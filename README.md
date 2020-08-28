@@ -14,7 +14,7 @@ Python | C++ | POSTGRESQL | HTML | CSS
 * Ask me about anything, I'll be happy to help.
 * From Ujjain, M.P. India
 
-### Check my blogs & posts 😄 
+### Check out my blog posts 😄 
 - [Twitter Bot](https://dev.to/ayushi_rawat_/how-to-make-a-twitter-bot-with-python-3jg9)
 - [Add me to search](https://dev.to/ayushi_rawat_/add-me-to-search-in-3-simple-steps-27jg)
 - [GitHub Profile README](https://dev.to/ayushi_rawat_/create-a-github-profile-readme-in-3-simple-steps-3ofj)
