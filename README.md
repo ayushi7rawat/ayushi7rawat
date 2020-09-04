@@ -27,8 +27,8 @@ I write regular blog posts which you will find on [dev.to](https://dev.to/ayushi
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
   
-   [![Website Badge](https://img.shields.io/badge/-anushkaverma.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://verma-anushka.github.io/anushkaverma/)](https://verma-anushka.github.io/anushkaverma/) 
-   [![Linkedin Badge](https://img.shields.io/badge/-ayushi7rawat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushi7rawat/)](https://www.linkedin.com/in/ayushi7rawat/) 
+   [![Dev Badge](https://img.shields.io/badge/-DEV.to.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://dev.to/ayushi7rawat)](https://dev.to/ayushi7rawat) 
+   [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushi7rawat/)](https://www.linkedin.com/in/ayushi7rawat/) 
    [![Medium Badge](https://img.shields.io/badge/-@v.anushka786-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@v.anushka786)](https://medium.com/@v.anushka786) 
    [![Gmail Badge](https://img.shields.io/badge/-v.anushka786-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.anushka786@gmail.com)](mailto:v.anushka786@gmail.com)
    [![Instagram Badge](https://img.shields.io/badge/-@v_anushkaa-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/v_anushkaa/)](https://instagram.com/v_anushkaa) 
