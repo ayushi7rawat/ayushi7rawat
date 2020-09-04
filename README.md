@@ -5,6 +5,7 @@ I am a Software Developer, I write techincal blogs. I am passionate about explor
 
 Python | C++ | POSTGRESQL | HTML | CSS
 ---
+![alt text](https://github.com/ayushi7rawat/Python-Bootcamp/blob/master/PhotoGrid_1599195048543.jpg)
 
 ## Namaste 🙏
 
