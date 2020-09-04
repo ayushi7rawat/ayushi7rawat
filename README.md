@@ -1,7 +1,4 @@
 # Ayushi Rawat
-Exploring and Refactoring!
-
-I am a Software Developer, I write techincal blogs. I am passionate about exploring and learning new things. 
 
 Python | C++ | POSTGRESQL | HTML | CSS
 ---
