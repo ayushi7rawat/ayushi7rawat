@@ -18,7 +18,7 @@ Python | C++ | POSTGRESQL | HTML | CSS
 * From Ujjain, M.P. India
 
 ### My Digital Garden 🌱
-I write regular blog posts which you will find on [dev.to/ayushi7rawat](dev.to/ayushi7rawat).
+I write regular blog posts which you will find on [dev.to](https://dev.to/ayushi7rawat).
 - [Twitter Bot](https://dev.to/ayushi_rawat_/how-to-make-a-twitter-bot-with-python-3jg9)
 - [Instagram Bot](https://dev.to/ayushi_rawat_/how-to-make-an-instagram-bot-with-python-1ggb)
 - [Add me to search](https://dev.to/ayushi_rawat_/add-me-to-search-in-3-simple-steps-27jg)
