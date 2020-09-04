@@ -15,6 +15,8 @@ Python | C++ | POSTGRESQL | HTML | CSS
    [![Facebook Badge](https://img.shields.io/badge/-Facebook-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100008625401332)](https://www.facebook.com/people/Ayushi-Rawat/100008625401332)
   [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ayushi_rawat)](https://twitter.com/ayushi_rawat_)  
 
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 ## Namaste 🙏
 
 * Primary coding language: Python.
