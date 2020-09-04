@@ -22,8 +22,8 @@ I write regular blog posts which you will find on [dev.to](https://dev.to/ayushi
 - [GitHub Profile README](https://dev.to/ayushi_rawat_/create-a-github-profile-readme-in-3-simple-steps-3ofj)
 
 <p align="center">
-  <i>Let's connect and chat! Find me on the web...
-  
+  <i>Let's connect and chat! Find me on the web...</i>
+ <p align="center">
    [![Dev Badge](https://img.shields.io/badge/-DEV.to-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://dev.to/ayushi7rawat)](https://dev.to/ayushi7rawat) 
    [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushi7rawat/)](https://www.linkedin.com/in/ayushi7rawat/) 
    [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@ayushi7rawat)](https://medium.com/@ayushi7rawat) 
@@ -31,6 +31,6 @@ I write regular blog posts which you will find on [dev.to](https://dev.to/ayushi
    [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ayushi7rawat/)](https://instagram.com/ayushi7rawat) 
    [![Facebook Badge](https://img.shields.io/badge/-Facebook-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100008625401332)](https://www.facebook.com/people/Ayushi-Rawat/100008625401332)
   [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ayushi_rawat)](https://twitter.com/ayushi_rawat_)  
-</i>
+
 #
  ![Visitor Count](https://profile-counter.glitch.me/{ayushi7rawat}/count.svg)
