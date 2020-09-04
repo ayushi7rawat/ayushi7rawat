@@ -1,7 +1,5 @@
 # Ayushi Rawat
 Exploring and Refactoring!
-
-
 Python | C++ | POSTGRESQL | HTML | CSS
 ---
 
@@ -23,7 +21,7 @@ I write regular blog posts which you will find on [dev.to](https://dev.to/ayushi
 
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
- <p align="center">
+  
    [![Dev Badge](https://img.shields.io/badge/-DEV.to-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://dev.to/ayushi7rawat)](https://dev.to/ayushi7rawat) 
    [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushi7rawat/)](https://www.linkedin.com/in/ayushi7rawat/) 
    [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@ayushi7rawat)](https://medium.com/@ayushi7rawat) 
