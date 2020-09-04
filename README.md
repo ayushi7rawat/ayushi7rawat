@@ -31,5 +31,7 @@ I write regular blog posts which you will find on [dev.to](https://dev.to/ayushi
 - [Add me to search](https://dev.to/ayushi_rawat_/add-me-to-search-in-3-simple-steps-27jg)
 - [GitHub Profile README](https://dev.to/ayushi_rawat_/create-a-github-profile-readme-in-3-simple-steps-3ofj)
 
-#
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+
+<p align="center">
  ![Visitor Count](https://profile-counter.glitch.me/{ayushi7rawat}/count.svg)
