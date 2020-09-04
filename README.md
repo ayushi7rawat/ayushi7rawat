@@ -33,5 +33,4 @@ I write regular blog posts which you will find on [dev.to](https://dev.to/ayushi
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
-<p align="center">
  ![Visitor Count](https://profile-counter.glitch.me/{ayushi7rawat}/count.svg)
