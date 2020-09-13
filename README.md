@@ -33,7 +33,6 @@ I write regular blog posts which you will find on [dev.to](https://dev.to/ayushi
 - [How to make your own Google Chrome Extension](https://dev.to/ayushi7rawat/how-to-make-your-own-google-chrome-extension-dbl)
 - [Twitter Bot](https://dev.to/ayushi_rawat_/how-to-make-a-twitter-bot-with-python-3jg9)
 - [Instagram Bot](https://dev.to/ayushi_rawat_/how-to-make-an-instagram-bot-with-python-1ggb)
-- [Add me to search](https://dev.to/ayushi_rawat_/add-me-to-search-in-3-simple-steps-27jg)
 - [GitHub Profile README](https://dev.to/ayushi_rawat_/create-a-github-profile-readme-in-3-simple-steps-3ofj)
 
  ![Visitor Count](https://profile-counter.glitch.me/{ayushi7rawat}/count.svg)
