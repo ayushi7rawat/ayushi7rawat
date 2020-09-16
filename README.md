@@ -40,7 +40,7 @@ I write regular blog posts which you will find on [dev.to](https://dev.to/ayushi
 Check out my latest videos on YouTube:
 - [How to make your own Google Chrome Extension](https://www.youtube.com/watch?v=ZWbPtPHR4hY)
 - [Web Scraping Coronavirus Data into MS Excel](https://www.youtube.com/watch?v=CTRYYz1u7Y8)
-- [September Leetcode playlist(https://www.youtube.com/playlist?list=PLjaO05BrsbIP4_rYhYjB95q-IpxoIXmlm)
+- [September Leetcode playlist](https://www.youtube.com/playlist?list=PLjaO05BrsbIP4_rYhYjB95q-IpxoIXmlm)
 
  <details>
 <summary>📊 Github Stats</summary>
