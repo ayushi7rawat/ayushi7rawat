@@ -29,6 +29,7 @@ Python | C++ | POSTGRESQL | HTML | CSS
 
 ### My Digital Garden 🌱
 I write regular blog posts which you will find on [dev.to](https://dev.to/ayushi7rawat).
+- [Python 3.9: All You need to know](https://dev.to/ayushi7rawat/python-3-9-all-you-need-to-know-9h4)
 - [Web Scraping Coronavirus Data into MS Excel](https://dev.to/ayushi7rawat/web-scraping-coronavirus-data-into-ms-excel-560j)
 - [How to make your own Google Chrome Extension](https://dev.to/ayushi7rawat/how-to-make-your-own-google-chrome-extension-dbl)
 - [Twitter Bot](https://dev.to/ayushi_rawat_/how-to-make-a-twitter-bot-with-python-3jg9)
