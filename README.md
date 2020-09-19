@@ -49,7 +49,6 @@ Check out my latest videos on YouTube:
 - [September Leetcode playlist](https://www.youtube.com/playlist?list=PLjaO05BrsbIP4_rYhYjB95q-IpxoIXmlm)
 </td>
 
-##
  <details>
 <summary>📊 Github Stats</summary>
 
