@@ -32,18 +32,17 @@ Python | C++ | POSTGRESQL | HTML | CSS
 <table><tr><td valign="top" width="33%">
 
 ### My Digital Garden 🌱
-I write regular blog posts which you will find on [dev.to](https://dev.to/ayushi7rawat).
-- [GitHub CLI 1.0: All you need to know]https://ayushirawat.com/github-cli-10-all-you-need-to-know)
+You can find my blogs at my [Website](https://ayushirawat.com).
+- [GitHub CLI 1.0: All you need to know](https://ayushirawat.com/github-cli-10-all-you-need-to-know)
 - [Python 3.9: All You need to know](https://ayushirawat.com/python-39-all-you-need-to-know)
 - [Web Scraping Coronavirus Data into MS Excel](https://ayushirawat.com/web-scraping-coronavirus-data-into-ms-excel)
 - [How to make your own Google Chrome Extension](https://ayushirawat.com/how-to-make-your-own-google-chrome-extension-1)
-- [Instagram Bot](https://ayushirawat.com/how-to-make-an-instagram-bot-with-python)
 
 </td>
 <td valign="top" width="34%">
 
 ### The Developer Dictionary 🌱
-Check out my latest videos on YouTube:
+Check out my latest videos on [YouTube](https://www.youtube.com/ayushirawat):
 - [How to make your own Google Chrome Extension](https://www.youtube.com/watch?v=ZWbPtPHR4hY)
 - [Web Scraping Coronavirus Data into MS Excel](https://www.youtube.com/watch?v=CTRYYz1u7Y8)
 - [September Leetcode playlist](https://www.youtube.com/playlist?list=PLjaO05BrsbIP4_rYhYjB95q-IpxoIXmlm)
