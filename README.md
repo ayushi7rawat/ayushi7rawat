@@ -40,12 +40,15 @@ I write regular blog posts which you will find on [dev.to](https://dev.to/ayushi
 - [GitHub Profile README](https://dev.to/ayushi_rawat_/create-a-github-profile-readme-in-3-simple-steps-3ofj)
 
 </td><td valign="top" width="34%">
+  
 ### The Developer Dictionary 🌱
 Check out my latest videos on YouTube:
 - [How to make your own Google Chrome Extension](https://www.youtube.com/watch?v=ZWbPtPHR4hY)
 - [Web Scraping Coronavirus Data into MS Excel](https://www.youtube.com/watch?v=CTRYYz1u7Y8)
 - [September Leetcode playlist](https://www.youtube.com/playlist?list=PLjaO05BrsbIP4_rYhYjB95q-IpxoIXmlm)
 
+
+##
  <details>
 <summary>📊 Github Stats</summary>
 
