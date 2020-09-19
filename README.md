@@ -19,13 +19,6 @@ Python | C++ | POSTGRESQL | HTML | CSS
 <hr />
 
 
-<!--  <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
-
-**Say Hi on Twitter([@Vayushi7rawat](https://twitter.com/ayushi7rawat))!** :heart: 💬
-
-https://img.shields.io/twitter/follow/ayushi7rawat?label=Follow%20ayushi7rawat
-
-
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <!-- Namaste 🙏 -->
 
@@ -51,7 +44,7 @@ I write regular blog posts which you will find on [dev.to](https://dev.to/ayushi
 
 </td>
 <td valign="top" width="34%">
-  
+ <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> 
 ### The Developer Dictionary 🌱
 Check out my latest videos on YouTube:
 - [How to make your own Google Chrome Extension](https://www.youtube.com/watch?v=ZWbPtPHR4hY)
