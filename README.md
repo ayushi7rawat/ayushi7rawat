@@ -3,13 +3,23 @@
 Python | C++ | POSTGRESQL | HTML | CSS
 
 ![alt text](https://github.com/ayushi7rawat/Python-Bootcamp/blob/master/PhotoGrid_1599195115056.jpg)
-
+<p align="center">
+  <i>Let's connect and chat! Find me on the web...</i>
+  
+   [![Dev Badge](https://img.shields.io/badge/-DEV.to-47CCCC?style=flat&logo=Google-Chrome&?style=for-the-badge&logo=appveyor&logoColor=white&link=https://dev.to/ayushi7rawat)](https://dev.to/ayushi7rawat) 
+   [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushi7rawat/)](https://www.linkedin.com/in/ayushi7rawat/) 
+   [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@ayushi7rawat)](https://medium.com/@ayushi7rawat) 
+   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayushi7rawat@gmail.com)](mailto:ayushi7rawat@gmail.com)
+   [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ayushi7rawat/)](https://instagram.com/ayushi7rawat) 
+   [![Facebook Badge](https://img.shields.io/badge/-Facebook-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100008625401332)](https://www.facebook.com/people/Ayushi-Rawat/100008625401332)
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ayushi_rawat)](https://twitter.com/ayushi_rawat_) 
+</p>
 
 ### Connect with me
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="30" src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">][Instagram] 
-[<img height="30" src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
+[<img height="30" src ="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">][Instagram] 
+[<img height="30" src ="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
 <br />
 <hr />
 
