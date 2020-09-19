@@ -21,11 +21,12 @@ Python | C++ | POSTGRESQL | HTML | CSS
 <!-- Namaste 🙏 -->
 
 * Primary coding language: Python.
-* I’m currently working on Twitter Bot.
-* I'm looking to collaborate on Invisible Cloak
+* I’m currently working on my portfolio.
+* I'm looking to collaborate on Open source project for Hacktoberfest
 * Competitive Programmer
 * Ask me about anything, I'll be happy to help.
 * From Ujjain, M.P. India
+* If you play Call of Duty- add me: Blackhood00
 
 <table><tr><td valign="top" width="33%">
 
