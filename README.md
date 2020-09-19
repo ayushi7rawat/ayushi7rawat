@@ -13,7 +13,7 @@ Python | C++ | POSTGRESQL | HTML | CSS
 [<img height="30" src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
 [<img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />][twitter]
 [<img height="30" src="https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white" />][LinkedIn]
-[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Instagram] 
+[<img height="30" src = "https://img.shields.io/badge/Youtube-%FF0000.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Instagram] 
 [<img height="30" src = "https://img.shields.io/badge/gmail-%231877F2.svg?&style=for-the-badge&logo=gmail&logoColor=white">][Facebook]
 <br />
 <hr />
