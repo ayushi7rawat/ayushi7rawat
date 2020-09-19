@@ -59,8 +59,8 @@ Check out my latest videos on YouTube:
 </details>
 
 
-
  ![Visitor Count](https://profile-counter.glitch.me/{ayushi7rawat}/count.svg)
+ 
  
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
