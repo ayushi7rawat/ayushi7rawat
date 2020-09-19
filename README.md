@@ -21,6 +21,11 @@ Python | C++ | POSTGRESQL | HTML | CSS
 
 <!--  <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
 
+**Say Hi on Twitter([@Vayushi7rawat](https://twitter.com/ayushi7rawat))!** :heart: 💬
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/ayushi7rawat)
+
+
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <!-- Namaste 🙏 -->
 
@@ -67,7 +72,7 @@ Check out my latest videos on YouTube:
  
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
-[twitter]: https://twitter.com/krish_the_dev
-[LinkedIn]: https://www.linkedin.com/in/akrishnamoorthy007/
-[Instagram]: https://www.instagram.com/cat_man_krish
-[Facebook]: https://www.facebook.com/akrishnamoorthy007
+[twitter]: https://twitter.com/ayushi7rawat
+[LinkedIn]: https://www.linkedin.com/in/ayushi7rawat/
+[Instagram]: https://www.instagram.com/ayushi7rawat/
+[Facebook]: https://www.facebook.com/ayushi7rawat
