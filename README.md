@@ -70,5 +70,5 @@ Check out my latest videos on YouTube:
 [Hashnode]: https://ayushirawat.com
 [gmail]: https://gmail.com
 [linkedin]: https://www.linkedin.com/in/ayushi7rawat/
-[Medium]: https://www.medium.com/ayushi7rawat
+[Medium]: https://medium.com/@ayushi7rawat
 [Facebook]: https://www.facebook.com/ayushi7rawat
