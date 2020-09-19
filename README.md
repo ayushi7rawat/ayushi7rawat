@@ -10,9 +10,9 @@ Python | C++ | POSTGRESQL | HTML | CSS
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][YouTube] 
 [<img height="30" src="https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white" />][Hashnode]
-[<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="30" src = "https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">][Gmail] 
-[<img height="30" src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" src = "https://img.shields.io/badge/Gmail-c14438.svg?&style=for-the-badge&logo=instagram&logoColor=white">][Gmail] 
+[<img height="30" src = "https://img.shields.io/badge/facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
 [<img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />][Medium]
 <br />
 <hr />
@@ -70,5 +70,5 @@ Check out my latest videos on YouTube:
 [Hashnode]: https://ayushirawat.com
 [Gmail]: 
 [LinkedIn]: https://www.linkedin.com/in/ayushi7rawat/
-[Instagram]: https://www.instagram.com/ayushi7rawat/
 [Facebook]: https://www.facebook.com/ayushi7rawat
+[Medium]: https://www.medium.com/ayushi7rawat
