@@ -23,7 +23,7 @@ Python | C++ | POSTGRESQL | HTML | CSS
 
 **Say Hi on Twitter([@Vayushi7rawat](https://twitter.com/ayushi7rawat))!** :heart: 💬
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/ayushi7rawat)
+https://img.shields.io/twitter/follow/ayushi7rawat?label=Follow%20ayushi7rawat
 
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
