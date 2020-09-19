@@ -27,6 +27,8 @@ Python | C++ | POSTGRESQL | HTML | CSS
 * Ask me about anything, I'll be happy to help.
 * From Ujjain, M.P. India
 
+<table><tr><td valign="top" width="33%">
+
 ### My Digital Garden 🌱
 I write regular blog posts which you will find on [dev.to](https://dev.to/ayushi7rawat).
 - [GitHub CLI 1.0: All you need to know](https://ayushi7rawat.hashnode.dev/github-cli-10-all-you-need-to-know)
@@ -37,6 +39,7 @@ I write regular blog posts which you will find on [dev.to](https://dev.to/ayushi
 - [Instagram Bot](https://dev.to/ayushi_rawat_/how-to-make-an-instagram-bot-with-python-1ggb)
 - [GitHub Profile README](https://dev.to/ayushi_rawat_/create-a-github-profile-readme-in-3-simple-steps-3ofj)
 
+</td><td valign="top" width="34%">
 ### The Developer Dictionary 🌱
 Check out my latest videos on YouTube:
 - [How to make your own Google Chrome Extension](https://www.youtube.com/watch?v=ZWbPtPHR4hY)
