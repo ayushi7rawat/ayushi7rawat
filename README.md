@@ -2,7 +2,7 @@
 
 Python | C++ | POSTGRESQL | HTML | CSS
 
-![alt text](https://github.com/ayushi7rawat/Python-Bootcamp/blob/master/PhotoGrid_1599195115056.jpg)
+![alt text](https://github.com/ayushi7rawat/Python-Bootcamp/blob/master/Screenshot_4.png)
 <p align="center">
   <b><i>Let's connect and chat! Find me on the web.</i></b>
 
