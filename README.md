@@ -29,7 +29,7 @@ Python | C++ | POSTGRESQL | HTML | CSS
 * From Ujjain, M.P. India
 * If you play Call of Duty- add me: Blackhood00
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="45%">
 
 ### My Digital Garden 🌱
 You can find my blogs at my [Website](https://ayushirawat.com).
