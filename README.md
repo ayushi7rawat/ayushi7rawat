@@ -1,5 +1,9 @@
 # [Ayushi Rawat](https://ayushirawat.com/)
 
+<a href="https://www.youtube.com/ayushirawat">
+    <img src="https://img.shields.io/youtube/views/AI0gEvgPtAc?label=YouTube&logo=YouTube&style=for-the-badge">
+  </a>
+
 Python | C++ | POSTGRESQL | HTML | CSS
 
 ![alt text](https://github.com/ayushi7rawat/Python-Bootcamp/blob/master/Screenshot_4.png)
