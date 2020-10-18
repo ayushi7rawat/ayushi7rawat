@@ -37,7 +37,7 @@ You can find my blogs at my [Website](https://ayushirawat.com).
 - [The Ultimate Python Resource hub](https://ayushirawat.com/the-ultimate-python-resource-hub)
 - [GitHub CLI 1.0: All you need to know](https://ayushirawat.com/github-cli-10-all-you-need-to-know)
 - [Become a Better Programmer](https://ayushirawat.com/become-a-better-programmer)
-- [How to make your own Google Chrome Extension](https://ayushirawat.com/how-to-make-your-own-google-chrome-extension-1)
+- [How to make Google Chrome Extension](https://ayushirawat.com/how-to-make-your-own-google-chrome-extension-1)
 - [Create Audiobook from any pdf with Python](https://ayushirawat.com/create-your-own-audiobook-from-any-pdf-with-python)
 - [You are Important & so is your Mental Health!](https://ayushirawat.com/you-are-important-and-so-is-your-mental-health)
 </td>
