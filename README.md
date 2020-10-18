@@ -1,7 +1,7 @@
 # [Ayushi Rawat](https://ayushirawat.com/)
 
 <a href="https://www.youtube.com/ayushirawat">
-    <img src="https://img.shields.io/youtube/views/AI0gEvgPtAc?label=YouTube&logo=YouTube&style=for-the-badge">
+    <img src="https://img.shields.io/youtube/views/UCvmONGrUQxL3B3PmSv1JQqQ?label=YouTube&logo=YouTube&style=for-the-badge">
   </a>
 
 Python | C++ | POSTGRESQL | HTML | CSS
