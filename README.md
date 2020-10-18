@@ -41,7 +41,7 @@ You can find my blogs at my [Website](https://ayushirawat.com).
 - [Create Audiobook from any pdf with Python](https://ayushirawat.com/create-your-own-audiobook-from-any-pdf-with-python)
 - [You are Important & so is your Mental Health!](https://ayushirawat.com/you-are-important-and-so-is-your-mental-health)
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="35%">
 
 ### The Developer Dictionary 🌱
 Check out my latest videos on [YouTube](https://www.youtube.com/ayushirawat):
