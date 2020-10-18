@@ -1,6 +1,6 @@
 # [Ayushi Rawat](https://ayushirawat.com/)
 <a href="https://www.youtube.com/ayushirawat?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/views/05uF8t73f5s?label=YouTube&logo=YouTube&style=for-the-badge">
+    <img src="https://img.shields.io/youtube/views/ZWbPtPHR4hY?label=YouTube&logo=YouTube&style=for-the-badge">
   </a>
 
 Python | C++ | POSTGRESQL | HTML | CSS
