@@ -45,7 +45,7 @@ You can find my blogs at my [Website](https://ayushirawat.com).
 
 ### The Developer Dictionary 🌱
 Check out my latest videos on [YouTube](https://www.youtube.com/ayushirawat):
-- [How to make your own Google Chrome Extension](https://www.youtube.com/watch?v=ZWbPtPHR4hY)
+- [How to make Google Chrome Extension](https://www.youtube.com/watch?v=ZWbPtPHR4hY)
 - [Web Scraping Coronavirus Data into MS Excel](https://www.youtube.com/watch?v=CTRYYz1u7Y8)
 - [Create AudioBook from any Pdf](https://www.youtube.com/watch?v=ZWjXbe9DOVA)
 - [Convert any .py to .exe file format](https://www.youtube.com/watch?v=R8V9ZeeYFtY)
