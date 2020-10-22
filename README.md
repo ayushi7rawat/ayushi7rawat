@@ -26,7 +26,8 @@ Python | C++ | POSTGRESQL | HTML | CSS
 * I'm looking to collaborate on Open source project for Hacktoberfest
 * Competitive Programmer 
 * Ask me about anything, I'll be happy to help.
-* From Ujjain, M.P. India
+* 😄 Pronouns: She/her
+* 🏠 Hogwarts House: Griffindor
 * If you play Call of Duty- add me: Blackhood00
 
 <table><tr><td valign="top" width="50%">
