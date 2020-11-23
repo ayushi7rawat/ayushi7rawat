@@ -27,6 +27,7 @@ Python | C++ | POSTGRESQL | HTML | CSS
 * Competitive Programmer 
 * Ask me about anything, I'll be happy to help.
 * 😄 Pronouns: She/her
+* Join my [Discord server](https://discord.gg/Qet6kMd) | [Telegram Channel](https://t.me/rawatayushi)
 * 🏠 Hogwarts House: Griffindor
 * If you play Call of Duty- add me: Blackhood00
 
