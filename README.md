@@ -35,24 +35,15 @@ Python | C++ | POSTGRESQL | HTML | CSS
 
 ### My Digital Garden 🌱
 You can find my blogs at my [Website](https://ayushirawat.com).
-- [Python 3.9: All You need to know](https://ayushirawat.com/python-39-all-you-need-to-know)
-- [The Ultimate Python Resource hub](https://ayushirawat.com/the-ultimate-python-resource-hub)
-- [GitHub CLI 1.0: All you need to know](https://ayushirawat.com/github-cli-10-all-you-need-to-know)
-- [Become a Better Programmer](https://ayushirawat.com/become-a-better-programmer)
-- [How to make Google Chrome Extension](https://ayushirawat.com/how-to-make-your-own-google-chrome-extension-1)
-- [Create Audiobook from any pdf with Python](https://ayushirawat.com/create-your-own-audiobook-from-any-pdf-with-python)
-- [You are Important & so is your Mental Health!](https://ayushirawat.com/you-are-important-and-so-is-your-mental-health)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 </td>
 <td valign="top" width="45%">
 
 ### The Developer Dictionary 🌱
 Check out my latest videos on [YouTube](https://www.youtube.com/ayushirawat):
-- [How to make Google Chrome Extension](https://www.youtube.com/watch?v=ZWbPtPHR4hY)
-- [Web Scraping Coronavirus Data into MS Excel](https://www.youtube.com/watch?v=CTRYYz1u7Y8)
-- [Create AudioBook from any Pdf](https://www.youtube.com/watch?v=ZWjXbe9DOVA)
-- [Convert any .py to .exe file format](https://www.youtube.com/watch?v=R8V9ZeeYFtY)
-- [Create your own Image & Audio Captcha](https://www.youtube.com/watch?v=fAFIY_3OaO4&t=2s)
-- [September Leetcode playlist](https://www.youtube.com/playlist?list=PLjaO05BrsbIP4_rYhYjB95q-IpxoIXmlm)
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 </td>
 
  <details>
