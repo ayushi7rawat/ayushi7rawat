@@ -48,11 +48,11 @@ You can find my blogs at my [Website](https://ayushirawat.com).
 ### The Developer Dictionary 🌱
 Check out my latest videos on [YouTube](https://www.youtube.com/ayushirawat):
 <!-- YOUTUBE:START -->
+- [Automate WhatsApp ](https://www.youtube.com/watch?v=muBeg5NE5MQ)
 - [Currency Convertor ](https://www.youtube.com/watch?v=ixB2YHGSiAQ)
 - [How to Automate Notion ](https://www.youtube.com/watch?v=6sJFI8LbhpY)
 - [How to Unzip any File ](https://www.youtube.com/watch?v=cw9r3HLmCbU)
 - [Find IP Address of any Website ](https://www.youtube.com/watch?v=v7JYwG5hdYs)
-- [Random Password Generator ](https://www.youtube.com/watch?v=AjiGVu2xbx8)
 <!-- YOUTUBE:END -->
 </td>
 
