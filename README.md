@@ -1,7 +1,7 @@
 # [Ayushi Rawat](https://ayushirawat.com/)
 Python | C++ | POSTGRESQL | HTML | CSS
 
-![alt text](https://github.com/ayushi7rawat/Python-Bootcamp/blob/master/Screenshot_4.png)
+![alt text](https://github.com/ayushi7rawat/ayushi7rawat/blob/master/cover.png)
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
 
