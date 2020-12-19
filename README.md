@@ -36,11 +36,11 @@ Python | C++ | POSTGRESQL | HTML | CSS
 ### My Digital Garden 🌱
 You can find my blogs at my [Website](https://ayushirawat.com).
 <!-- BLOG-POST-LIST:START -->
+- [Automate WhatsApp using Python](https://ayushirawat.com/automate-whatsapp-using-python)
 - [Currency Converter using Python](https://ayushirawat.com/currency-converter-using-python)
 - [Work From Home Essentials](https://ayushirawat.com/work-from-home-essentials)
 - [How to Develop a STRATEGY?](https://ayushirawat.com/how-to-develop-a-strategy)
 - [Automate Notion with Python](https://ayushirawat.com/automate-notion-with-python)
-- [Unzip any File Using Python](https://ayushirawat.com/unzip-any-file-using-python)
 <!-- BLOG-POST-LIST:END -->
 </td>
 <td valign="top" width="45%">
