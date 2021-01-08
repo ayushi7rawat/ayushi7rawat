@@ -1,5 +1,6 @@
 # [Ayushi Rawat](https://ayushirawat.com/)
 Python | C++ | POSTGRESQL | HTML | CSS
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya-0306&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi7rawat" /> </p>
 
 ![alt text](https://github.com/ayushi7rawat/ayushi7rawat/blob/master/cover.png)
 <p align="center">
