@@ -36,11 +36,11 @@ Python | C++ | POSTGRESQL | HTML | CSS
 ### My Digital Garden 🌱
 You can find my blogs at my [Website](https://ayushirawat.com).
 <!-- BLOG-POST-LIST:START -->
+- [Make 2021 a Productive Year | 12 Must-watch Life-Changing Hacks!](https://ayushirawat.com/make-2021-a-productive-year-or-12-must-watch-life-changing-hacks)
 - [Generate Wiki Summary using Python](https://ayushirawat.com/generate-wiki-summary-using-python)
 - [Turn any Image to ASCII Art using Python](https://ayushirawat.com/turn-any-image-to-ascii-art-using-python)
 - [Automate WhatsApp using Python](https://ayushirawat.com/automate-whatsapp-using-python)
 - [Currency Converter using Python](https://ayushirawat.com/currency-converter-using-python)
-- [Work From Home Essentials](https://ayushirawat.com/work-from-home-essentials)
 <!-- BLOG-POST-LIST:END -->
 </td>
 <td valign="top" width="45%">
