@@ -36,11 +36,11 @@ Python | C++ | POSTGRESQL | HTML | CSS
 ### My Digital Garden 🌱
 You can find my blogs at my [Website](https://ayushirawat.com).
 <!-- BLOG-POST-LIST:START -->
+- [Hack Google chrome No Internet Dino Game!](https://ayushirawat.com/hack-google-chrome-no-internet-dino-game)
 - [Fetch All Information of any Country using Python](https://ayushirawat.com/fetch-all-information-of-any-country-using-python)
 - [Automate any Chat-Messenger with Python](https://ayushirawat.com/automate-any-chat-messenger-with-python)
 - [Draw Indian Flag using Python](https://ayushirawat.com/draw-indian-flag-using-python)
 - [Make 2021 a Productive Year | 12 Must-watch Life-Changing Hacks!](https://ayushirawat.com/make-2021-a-productive-year-or-12-must-watch-life-changing-hacks)
-- [Generate Wiki Summary using Python](https://ayushirawat.com/generate-wiki-summary-using-python)
 <!-- BLOG-POST-LIST:END -->
 </td>
 <td valign="top" width="45%">
