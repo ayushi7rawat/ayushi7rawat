@@ -29,7 +29,7 @@ Python | C++ | POSTGRESQL | HTML | CSS
 * 😄 Pronouns: She/her
 * Join my [Discord server](https://discord.gg/Qet6kMd) | [Telegram Channel](https://t.me/rawatayushi)
 * 🏠 Hogwarts House: Griffindor
-* If you play Call of Duty- add me: Blackhood00
+* If you play Call of Duty- add me: Blackhood@00
 
 <table><tr><td valign="top" width="50%">
 
