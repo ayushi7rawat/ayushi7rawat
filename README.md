@@ -34,7 +34,6 @@ Python | C++ | POSTGRESQL | HTML | CSS
 <table><tr><td valign="top" width="50%">
 
 ### My Latest Blog Posts 🌱
-You can find my blogs at my [Website](https://ayushirawat.com).
 <!-- BLOG-POST-LIST:START -->
 - [Hack Google chrome No Internet Dino Game!](https://ayushirawat.com/hack-google-chrome-no-internet-dino-game)
 - [Fetch All Information of any Country using Python](https://ayushirawat.com/fetch-all-information-of-any-country-using-python)
@@ -46,8 +45,7 @@ You can find my blogs at my [Website](https://ayushirawat.com).
 </td>
 <td valign="top" width="45%">
 
-### The Latest YouTube Videos 🌱
-Check out my latest videos on [YouTube](https://www.youtube.com/ayushirawat):
+### My Latest YouTube Videos 🌱
 <!-- YOUTUBE:START -->
 - [Hack Google chrome No Internet Dino Game!](https://www.youtube.com/watch?v=qG4G_Dukjbs)
 - [Fetch All Information of any Country ](https://www.youtube.com/watch?v=Eb3naUPN3G8)
