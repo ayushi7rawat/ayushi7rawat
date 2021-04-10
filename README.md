@@ -33,7 +33,7 @@ Python | C++ | POSTGRESQL | HTML | CSS
 
 <table><tr><td valign="top" width="50%">
 
-### My Digital Garden 🌱
+### My Latest Blog Posts 🌱
 You can find my blogs at my [Website](https://ayushirawat.com).
 <!-- BLOG-POST-LIST:START -->
 - [Hack Google chrome No Internet Dino Game!](https://ayushirawat.com/hack-google-chrome-no-internet-dino-game)
@@ -46,7 +46,7 @@ You can find my blogs at my [Website](https://ayushirawat.com).
 </td>
 <td valign="top" width="45%">
 
-### The Developer Dictionary 🌱
+### The Latest YouTube Videos 🌱
 Check out my latest videos on [YouTube](https://www.youtube.com/ayushirawat):
 <!-- YOUTUBE:START -->
 - [Hack Google chrome No Internet Dino Game!](https://www.youtube.com/watch?v=qG4G_Dukjbs)
