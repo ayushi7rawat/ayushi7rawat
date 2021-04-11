@@ -22,8 +22,8 @@ Python | C++ | POSTGRESQL | HTML | CSS
  
 * Primary coding language: Python.
 * I’m currently working on my portfolio.
-* I am currently learning Docker
-* I'm looking to collaborate on Open source project for Hacktoberfest
+<!--* I am currently learning Docker-->
+<!--* I'm looking to collaborate on Open source project for Hacktoberfest-->
 * Competitive Programmer 
 * Ask me about anything, I'll be happy to help.
 * 😄 Pronouns: She/her
