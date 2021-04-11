@@ -20,7 +20,7 @@
 
 * My primary coding language: Python
 * Earned Gold badge & 5 star at HackerRank in Python programming.
-* Passionate for learning and exploring new tech. I write [Tech Blogs](https://ayushirawat.com/) and make educational [YouTube Videos](https://www.youtube.com/c/AyushiRawat).
+* Passionate for learning & exploring new Tech. I write [Tech Blogs](https://ayushirawat.com/) & make educational [YouTube Videos](https://www.youtube.com/c/AyushiRawat).
 * I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our thier programming journey.
 * Join my [Discord server](https://discord.gg/Qet6kMd) | [Telegram Channel](https://t.me/rawatayushi).
 <!--* 🏠 Hogwarts House: Griffindor-->
@@ -31,11 +31,6 @@
 <!-- -->
 <!--* I'm looking to collaborate on Open source project for Hacktoberfest-->
 
-
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-<br />
 ---
 
 <table><tr><td valign="top" width="50%">
@@ -72,9 +67,7 @@
 
 
  ![Visitor Count](https://profile-counter.glitch.me/{ayushi7rawat}/count.svg)
- 
- 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+
 
 [twitter]: https://twitter.com/ayushi7rawat
 [youtube]: https://youtube.com/ayushirawat
@@ -83,3 +76,11 @@
 [linkedin]: https://www.linkedin.com/in/ayushi7rawat/
 [Medium]: https://medium.com/@ayushi7rawat
 [Facebook]: https://www.facebook.com/ayushi7rawat
+
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+<br />
+
+
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
