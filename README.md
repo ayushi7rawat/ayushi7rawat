@@ -15,9 +15,7 @@
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/>
 </p>
-
----
- 
+<hr/>
 * My primary coding language: Python
 * Earned Gold badge & 5 star at HackerRank in Python programming.
 * Passionate for learning and exploring new tech.
