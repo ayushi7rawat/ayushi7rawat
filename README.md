@@ -10,7 +10,7 @@
 <hr />
 
 * My primary coding language: Python
-* 5 star and earned Gold badge at HackerRank in Python programming.
+* Earned Gold badge & 5 star at HackerRank in Python programming.
 * Passionate for learning and exploring new tech.
 * I write [Tech Blogs](https://ayushirawat.com/) and make educational [YouTube Videos](https://www.youtube.com/c/AyushiRawat).
 * I am working on building my online presence.
