@@ -24,7 +24,7 @@
 <!--* I'm looking to collaborate on Open source project for Hacktoberfest-->
 ---
 
-### Tech I'm good at ⚡
+### My Tech Toolbox 🧰
 
 <p align="left">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
@@ -36,6 +36,7 @@
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/>
 </p>
+
 ---
 
 <table><tr><td valign="top" width="50%">
