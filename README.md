@@ -16,6 +16,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/>
 </p>
 
+--- 
 
 * My primary coding language: Python
 * Earned Gold badge & 5 star at HackerRank in Python programming.
