@@ -13,7 +13,7 @@ Python | C++ | POSTGRESQL | HTML | CSS
 <!-- Namaste 🙏 -->
  <!--<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
  
-* My primary coding language: Python
+- My primary coding language: Python
 * I am a Competitive Programmer
 * I write [Tech Blogs](https://ayushirawat.com/) and make educational [YouTube Videos](https://www.youtube.com/c/AyushiRawat).
 * I am working on building my online presence.
