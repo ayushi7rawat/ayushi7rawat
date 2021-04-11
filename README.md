@@ -9,9 +9,7 @@ Python | C++ | POSTGRESQL | HTML | CSS
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 <br />
 <hr />
-<!-- Namaste 🙏 -->
- <!--<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
- 
+
 * My primary coding language: Python
 * I am a Competitive Programmer
 * I write [Tech Blogs](https://ayushirawat.com/) and make educational [YouTube Videos](https://www.youtube.com/c/AyushiRawat).
