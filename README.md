@@ -21,7 +21,8 @@
 * My primary coding language: Python
 * Earned Gold badge & 5 star at HackerRank in Python programming.
 * Passionate for learning and exploring new tech. I write [Tech Blogs](https://ayushirawat.com/) and make educational [YouTube Videos](https://www.youtube.com/c/AyushiRawat).
-* I am working on building my online presence. Join my [Discord server](https://discord.gg/Qet6kMd) | [Telegram Channel](https://t.me/rawatayushi). Doing my bit spreading knowledge & mentoring fellow developers who are starting our thier developer journey.
+* I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our thier programming journey.
+* Join my [Discord server](https://discord.gg/Qet6kMd) | [Telegram Channel](https://t.me/rawatayushi).
 <!--* 🏠 Hogwarts House: Griffindor-->
 <!--* If you play Call of Duty- add me: Blackhood@00-->
 <!--* I am currently learning Docker-->
