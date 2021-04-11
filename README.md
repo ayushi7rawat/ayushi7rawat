@@ -20,16 +20,19 @@ Python | C++ | POSTGRESQL | HTML | CSS
 <!-- Namaste 🙏 -->
  <!--<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
  
-* Primary coding language: Python.
-* I’m currently working on my portfolio.
-<!--* I am currently learning Docker-->
-<!--* I'm looking to collaborate on Open source project for Hacktoberfest-->
-* Competitive Programmer 
-* Ask me about anything, I'll be happy to help.
-* 😄 Pronouns: She/her
+* My primary coding language: Python
+* I am a Competitive Programmer
+* I write [Tech Blogs](https://ayushirawat.com/) and make educational [YouTube Videos](https://www.youtube.com/c/AyushiRawat).
+* I am working on building my online presence.
 * Join my [Discord server](https://discord.gg/Qet6kMd) | [Telegram Channel](https://t.me/rawatayushi)
+* 😄 Pronouns: She/her
 * 🏠 Hogwarts House: Griffindor
 * If you play Call of Duty- add me: Blackhood@00
+<!--* I am currently learning Docker-->
+<!--* I’m currently working on my portfolio. -->
+<!-- * Ask me about anything, I'll be happy to help.-->
+<!-- -->
+<!--* I'm looking to collaborate on Open source project for Hacktoberfest-->
 
 <table><tr><td valign="top" width="50%">
 
