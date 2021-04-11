@@ -23,6 +23,7 @@
 <!-- -->
 <!--* I'm looking to collaborate on Open source project for Hacktoberfest-->
 ---
+
 ### Tech I'm good at ⚡
 
 <p align="left">
@@ -36,6 +37,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/>
 </p>
 ---
+
 <table><tr><td valign="top" width="50%">
 
 ### My Latest Blog Posts 🌱
