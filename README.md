@@ -1,14 +1,12 @@
 # [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Ayushi Rawat](https://ayushirawat.com/)
-
-![alt text](https://github.com/ayushi7rawat/ayushi7rawat/blob/master/cover.png)
-<p align="center">
- 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 <br />
 <hr />
 
+![alt text](https://github.com/ayushi7rawat/ayushi7rawat/blob/master/cover.png)
+ 
 * My primary coding language: Python
 * Earned Gold badge & 5 star at HackerRank in Python programming.
 * Passionate for learning and exploring new tech.
