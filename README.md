@@ -1,5 +1,4 @@
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ayushi Rawat](https://ayushirawat.com/)
-Python | C++ | POSTGRESQL | HTML | CSS
+# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Ayushi Rawat](https://ayushirawat.com/)
 
 ![alt text](https://github.com/ayushi7rawat/ayushi7rawat/blob/master/cover.png)
 <p align="center">
