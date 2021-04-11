@@ -34,7 +34,7 @@
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://ayushirawat.com/)
 </td>
-<td valign="top" width="45%">
+<td valign="top" width="50%">
 
 ### My Latest YouTube Videos 🌱
 <!-- YOUTUBE:START -->
