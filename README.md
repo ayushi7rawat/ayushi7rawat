@@ -52,11 +52,11 @@
 
 ### My Latest YouTube Videos 🌱
 <!-- YOUTUBE:START -->
+- [1822. Sign of the Product of an Array ](https://www.youtube.com/watch?v=3DViZ6BF4sw)
 - [Hack Google chrome No Internet Dino Game!](https://www.youtube.com/watch?v=qG4G_Dukjbs)
 - [Fetch All Information of any Country ](https://www.youtube.com/watch?v=Eb3naUPN3G8)
 - [Automate any Chat-Messenger with Python ](https://www.youtube.com/watch?v=6dy8wl0x-oc)
 - [Draw Indian Flag ](https://www.youtube.com/watch?v=4gvmxgkeAjo)
-- [Should I put Hobbies on my Resume? And How? ](https://www.youtube.com/watch?v=S5mmEYlUOyM)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/c/AyushiRawat)
 </td>
