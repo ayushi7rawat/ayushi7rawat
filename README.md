@@ -40,11 +40,11 @@
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
+- [Case Styles in programming](https://ayushirawat.com/case-styles-in-programming)
 - [Stand Out by Building a Personal Brand](https://ayushirawat.com/stand-out-by-building-a-personal-brand)
 - [Hack Google chrome No Internet Dino Game!](https://ayushirawat.com/hack-google-chrome-no-internet-dino-game)
 - [Fetch All Information of any Country using Python](https://ayushirawat.com/fetch-all-information-of-any-country-using-python)
 - [Automate any Chat-Messenger with Python](https://ayushirawat.com/automate-any-chat-messenger-with-python)
-- [Draw Indian Flag using Python](https://ayushirawat.com/draw-indian-flag-using-python)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://ayushirawat.com/)
 </td>
