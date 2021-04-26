@@ -40,11 +40,11 @@
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 Books for learning Python](https://ayushirawat.com/top-5-books-for-learning-python)
 - [Internet Speed Test using Python](https://ayushirawat.com/internet-speed-test-using-python)
 - [Why Build an Effective Developer Portfolio](https://ayushirawat.com/why-build-an-effective-developer-portfolio)
 - [Why Do I Blog?](https://ayushirawat.com/why-do-i-blog-1)
 - [Case Styles in programming](https://ayushirawat.com/case-styles-in-programming)
-- [Stand Out by Building a Personal Brand](https://ayushirawat.com/stand-out-by-building-a-personal-brand)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://ayushirawat.com/)
 </td>
