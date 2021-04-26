@@ -52,11 +52,11 @@
 
 ### My Latest YouTube Videos 🌱
 <!-- YOUTUBE:START -->
+- [Top 5 Books to Learn Python in 2021 ](https://www.youtube.com/watch?v=loP9QkLaGj8)
 - [1832. Check if the Sentence Is Pangram ](https://www.youtube.com/watch?v=TcQ5GNUnL8g)
 - [How to Cracked TCS Digital(DCA) in 1st attempt(2021) ](https://www.youtube.com/watch?v=2I0w5KyTbVs)
 - [1816. Truncate Sentence ](https://www.youtube.com/watch?v=kWmzOIp1Ed4)
 - [Case Style in Programming: Snake case, Camel Case, Pascal case & Kebab case](https://www.youtube.com/watch?v=4gJYICtm_gk)
-- [1822. Sign of the Product of an Array ](https://www.youtube.com/watch?v=3DViZ6BF4sw)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/c/AyushiRawat)
 </td>
