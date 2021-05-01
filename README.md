@@ -52,11 +52,11 @@
 
 ### My Latest YouTube Videos 🌱
 <!-- YOUTUBE:START -->
+- [Top 5 Languages to Learn to get a Job in 2021 ](https://www.youtube.com/watch?v=Rh4-25P2GJQ)
 - [5 COVID Related Interview Questions ](https://www.youtube.com/watch?v=YL76YVBT-rU)
 - [Top 5 Books to Learn Python in 2021 ](https://www.youtube.com/watch?v=loP9QkLaGj8)
 - [1832. Check if the Sentence Is Pangram ](https://www.youtube.com/watch?v=TcQ5GNUnL8g)
 - [How to Cracked TCS Digital(DCA) in 1st attempt(2021) ](https://www.youtube.com/watch?v=2I0w5KyTbVs)
-- [1816. Truncate Sentence ](https://www.youtube.com/watch?v=kWmzOIp1Ed4)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/c/AyushiRawat)
 </td>
