@@ -52,11 +52,11 @@
 
 ### My Latest YouTube Videos 🌱
 <!-- YOUTUBE:START -->
+- [1295. Find Numbers with Even Number of Digits ](https://www.youtube.com/watch?v=YJGii6LL-Es)
+- [136 Single Number ](https://www.youtube.com/watch?v=KsyvKkzm6qA)
+- [1848. Minimum Distance to the Target Element ](https://www.youtube.com/watch?v=Zu_nAwjdbts)
 - [Top 5 Languages to Learn to get a Job in 2021 ](https://www.youtube.com/watch?v=Rh4-25P2GJQ)
 - [5 COVID Related Interview Questions ](https://www.youtube.com/watch?v=YL76YVBT-rU)
-- [Top 5 Books to Learn Python in 2021 ](https://www.youtube.com/watch?v=loP9QkLaGj8)
-- [1832. Check if the Sentence Is Pangram ](https://www.youtube.com/watch?v=TcQ5GNUnL8g)
-- [How to Cracked TCS Digital(DCA) in 1st attempt(2021) ](https://www.youtube.com/watch?v=2I0w5KyTbVs)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/c/AyushiRawat)
 </td>
