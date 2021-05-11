@@ -40,11 +40,11 @@
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
+- [What is Competitive Programming | Beginners Guide](https://ayushirawat.com/what-is-competitive-programming-or-beginners-guide)
 - [Best IDE's for Python](https://ayushirawat.com/best-ides-for-python)
 - [How to Perform Google Search using Python](https://ayushirawat.com/how-to-perform-google-search-using-python)
 - [Top 5 Languages to Learn to Get a Job in 2021](https://ayushirawat.com/top-5-languages-to-learn-to-get-a-job-in-2021)
 - [5 COVID Related Interview Questions You Must Know About](https://ayushirawat.com/5-covid-related-interview-questions-you-must-know-about)
-- [Top 5 Books for learning Python](https://ayushirawat.com/top-5-books-for-learning-python)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://ayushirawat.com/)
 </td>
