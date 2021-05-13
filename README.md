@@ -52,11 +52,11 @@
 
 ### My Latest YouTube Videos 🌱
 <!-- YOUTUBE:START -->
+- [How to Automate CoWin Vaccine Notifier using Python ](https://www.youtube.com/watch?v=HrTQqSKWClE)
 - [What is Competitive Programming ](https://www.youtube.com/watch?v=C0YFYXfaEDM)
 - [Top 5 IDE's for Python ](https://www.youtube.com/watch?v=OMpENyXDKuM)
 - [How to Perform Google Search using Python ](https://www.youtube.com/watch?v=JO_2EjW0jSM)
 - [1295. Find Numbers with Even Number of Digits ](https://www.youtube.com/watch?v=YJGii6LL-Es)
-- [136 Single Number ](https://www.youtube.com/watch?v=KsyvKkzm6qA)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/c/AyushiRawat)
 </td>
