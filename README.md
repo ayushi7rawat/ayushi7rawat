@@ -40,11 +40,11 @@
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
+- [Best Podcasts for Python](https://ayushirawat.com/best-podcasts-for-python)
 - [Automate Cowin Vaccine slots Availablity using Python](https://ayushirawat.com/automate-cowin-vaccine-slots-availablity-using-python)
 - [What is Competitive Programming | Beginners Guide](https://ayushirawat.com/what-is-competitive-programming-or-beginners-guide)
 - [Best IDE's for Python](https://ayushirawat.com/best-ides-for-python)
 - [How to Perform Google Search using Python](https://ayushirawat.com/how-to-perform-google-search-using-python)
-- [Top 5 Languages to Learn to Get a Job in 2021](https://ayushirawat.com/top-5-languages-to-learn-to-get-a-job-in-2021)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://ayushirawat.com/)
 </td>
