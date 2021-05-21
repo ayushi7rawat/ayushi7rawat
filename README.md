@@ -41,7 +41,7 @@
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
 - [Best Podcasts for Python](https://ayushirawat.com/best-podcasts-for-python)
-- [Automate Cowin Vaccine slots Availablity using Python](https://ayushirawat.com/automate-cowin-vaccine-slots-availablity-using-python)
+- [Automate Cowin Vaccine slots Availability using Python](https://ayushirawat.com/automate-cowin-vaccine-slots-availablity-using-python)
 - [What is Competitive Programming | Beginners Guide](https://ayushirawat.com/what-is-competitive-programming-or-beginners-guide)
 - [Best IDE's for Python](https://ayushirawat.com/best-ides-for-python)
 - [How to Perform Google Search using Python](https://ayushirawat.com/how-to-perform-google-search-using-python)
