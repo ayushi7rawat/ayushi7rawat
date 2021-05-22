@@ -40,11 +40,11 @@
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
+- [What is Git and Github? | Git vs GitHub](https://ayushirawat.com/what-is-git-and-github-or-git-vs-github)
 - [Best Podcasts for Python](https://ayushirawat.com/best-podcasts-for-python)
 - [Automate Cowin Vaccine slots Availability using Python](https://ayushirawat.com/automate-cowin-vaccine-slots-availablity-using-python)
 - [What is Competitive Programming | Beginners Guide](https://ayushirawat.com/what-is-competitive-programming-or-beginners-guide)
 - [Best IDE's for Python](https://ayushirawat.com/best-ides-for-python)
-- [How to Perform Google Search using Python](https://ayushirawat.com/how-to-perform-google-search-using-python)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://ayushirawat.com/)
 </td>
