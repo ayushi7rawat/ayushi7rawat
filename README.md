@@ -52,11 +52,11 @@
 
 ### My Latest YouTube Videos 🌱
 <!-- YOUTUBE:START -->
+- [What is Git and GitHub? ](https://www.youtube.com/watch?v=nWIAc-9EFdg)
 - [How to Develop & Showcase Soft Skills ](https://www.youtube.com/watch?v=bLcjvkMTRyo)
 - [Top 5 Podcasts for Python ](https://www.youtube.com/watch?v=jAOkWehMF6E)
 - [How to Automate CoWin Vaccine Notifier using Python ](https://www.youtube.com/watch?v=HrTQqSKWClE)
 - [What is Competitive Programming ](https://www.youtube.com/watch?v=C0YFYXfaEDM)
-- [Top 5 IDE's for Python ](https://www.youtube.com/watch?v=OMpENyXDKuM)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/c/AyushiRawat)
 </td>
