@@ -52,11 +52,11 @@
 
 ### My Latest YouTube Videos 🌱
 <!-- YOUTUBE:START -->
+- [Forecast Weather using Python ](https://www.youtube.com/watch?v=jAVVtOzQ5ww)
 - [#3 How to Install and configure Git ](https://www.youtube.com/watch?v=eoRAkps8ues)
 - [#2 How to create a GitHub Account & GitHub Repository ](https://www.youtube.com/watch?v=SgP6iJe081Y)
 - [Work From Home Essential Tips ](https://www.youtube.com/watch?v=3QxJayr9utc)
 - [1869. Longer Contiguous Segments of Ones than Zeros ](https://www.youtube.com/watch?v=aer6x0sTA7g)
-- [#1 What is Git and GitHub? ](https://www.youtube.com/watch?v=nWIAc-9EFdg)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/c/AyushiRawat)
 </td>
