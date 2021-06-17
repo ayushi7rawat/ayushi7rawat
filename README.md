@@ -6,7 +6,7 @@
 ![alt text](https://github.com/ayushi7rawat/ayushi7rawat/blob/master/cover2.png) 
 
 
-### My Tech Toolbox 🧰
+### My Tech Toolbox 🧰 
 
 <p align="left">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
