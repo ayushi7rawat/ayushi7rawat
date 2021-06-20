@@ -52,11 +52,11 @@
 
 ### My Latest YouTube Videos 🌱
 <!-- YOUTUBE:START -->
+- [71A Way too long words ](https://www.youtube.com/watch?v=hYIzUt9mvRQ)
 - [How to build a Break Scheduler using Python ](https://www.youtube.com/watch?v=qF8QG7Fr1Vk)
 - [#4 How to make Git Commit with a Past Date ](https://www.youtube.com/watch?v=cSwgkUHk_Qo)
 - [Forecast Weather using Python ](https://www.youtube.com/watch?v=jAVVtOzQ5ww)
 - [#3 How to Install and configure Git ](https://www.youtube.com/watch?v=eoRAkps8ues)
-- [#2 How to create a GitHub Account & GitHub Repository ](https://www.youtube.com/watch?v=SgP6iJe081Y)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/c/AyushiRawat)
 </td>
