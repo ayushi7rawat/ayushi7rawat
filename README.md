@@ -40,11 +40,11 @@
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
+- [What is an API? API-101](https://ayushirawat.com/what-is-an-api-api-101)
 - [Build a Break Scheduler using Python](https://ayushirawat.com/build-a-break-scheduler-using-python)
 - [Forecast Weather using Python](https://ayushirawat.com/forecast-weather-using-python)
 - [What is Git and Github? | Git vs GitHub](https://ayushirawat.com/what-is-git-and-github-or-git-vs-github)
 - [Best Podcasts for Python](https://ayushirawat.com/best-podcasts-for-python)
-- [Automate Cowin Vaccine slots Availability using Python](https://ayushirawat.com/automate-cowin-vaccine-slots-availablity-using-python)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://ayushirawat.com/)
 </td>
