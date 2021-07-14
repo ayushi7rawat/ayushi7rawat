@@ -40,11 +40,11 @@
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
+- [HTTP Status Codes that You must know](https://ayushirawat.com/http-status-codes-that-you-must-know)
 - [GitHub Copilot: All you need to know](https://ayushirawat.com/github-copilot-all-you-need-to-know)
 - [What is an API? API-101](https://ayushirawat.com/what-is-an-api-api-101)
 - [Build a Break Scheduler using Python](https://ayushirawat.com/build-a-break-scheduler-using-python)
 - [Forecast Weather using Python](https://ayushirawat.com/forecast-weather-using-python)
-- [What is Git and Github? | Git vs GitHub](https://ayushirawat.com/what-is-git-and-github-or-git-vs-github)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://ayushirawat.com/)
 </td>
