@@ -40,11 +40,11 @@
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
-- [Beginner&#39;s guide to Hacktoberfest 2021](https://ayushirawat.com/beginners-guide-to-hacktoberfest-2021)
-- [What is Hacktoberfest? Hacktoberfest 101](https://ayushirawat.com/what-is-hacktoberfest)
-- [12 Python Tips &amp; Tricks You must know](https://ayushirawat.com/12-python-tips-and-tricks-you-must-know)
-- [HTTP Status Codes that You must know](https://ayushirawat.com/http-status-codes-that-you-must-know)
-- [GitHub Copilot: All you need to know](https://ayushirawat.com/github-copilot-all-you-need-to-know)
+- [Beginner&#39;s guide to Hacktoberfest 2021](https://ayushi7rawat.hashnode.dev/beginners-guide-to-hacktoberfest-2021)
+- [What is Hacktoberfest? Hacktoberfest 101](https://ayushi7rawat.hashnode.dev/what-is-hacktoberfest)
+- [12 Python Tips &amp; Tricks You must know](https://ayushi7rawat.hashnode.dev/12-python-tips-and-tricks-you-must-know)
+- [HTTP Status Codes that You must know](https://ayushi7rawat.hashnode.dev/http-status-codes-that-you-must-know)
+- [GitHub Copilot: All you need to know](https://ayushi7rawat.hashnode.dev/github-copilot-all-you-need-to-know)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://ayushirawat.com/)
 </td>
